@@ -53,6 +53,6 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:4000"
+  "proxy": "https://shopit-cp4h.onrender.com"
 }
    
